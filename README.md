@@ -13,16 +13,16 @@ password === "123456"
 
 </br> 
 </br> 
- <img src="https://github.com/sovanderlei/AWS_Basics/blob/main/imagens/awsserver01.png"   
+ <img src="https://github.com/sovanderlei/game/blob/main/imagens/logoPage.png"   
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/AWS_Basics/blob/main/imagens/awsserver02.png"   
+ <img src="https://github.com/sovanderlei/game/blob/main/imagens/homePage.png"   
 alt="Minha Figura">
 </br> 
- <img src="https://github.com/sovanderlei/AWS_Basics/blob/main/imagens/awsserver03.png"   
+ <img src="https://github.com/sovanderlei/game/blob/main/imagens/gamePage.png"   
 alt="Minha Figura">
 </br>  
- <img src="https://github.com/sovanderlei/AWS_Basics/blob/main/imagens/awsserver04.png"   
+ <img src="https://github.com/sovanderlei/game/blob/main/imagens/apiJavaSpringBoot.png"   
 alt="Minha Figura">
 </br>
 
