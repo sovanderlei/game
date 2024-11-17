@@ -25,9 +25,7 @@ alt="Minha Figura">
  <img src="https://github.com/sovanderlei/game/blob/main/imagens/apiJavaSpringBoot.png"   
 alt="Minha Figura">
 </br>
-
-# step 2
-
+ 
 </br> 
 </br> 
 </br>
