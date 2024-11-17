@@ -40,7 +40,7 @@ alt="Minha Figura">
  <img src="https://github.com/sovanderlei/game/blob/main/imagens/gamePage.png"   
 alt="Minha Figura">
 </br>  
-# Step 1
+# Step 2
 </br> 
  <img src="https://github.com/sovanderlei/game/blob/main/imagens/apiJavaSpringBoot.png"   
 alt="Minha Figura">
