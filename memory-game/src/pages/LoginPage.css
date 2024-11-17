@@ -1,0 +1,11 @@
+.LoginPage {
+    height: 100vh; /* Ocupa toda a altura da tela */
+    background-image: url('../images/cards/fundoCards3.jpg'); /* Substitua pelo caminho correto */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ 
