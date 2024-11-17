@@ -1,0 +1,17 @@
+.HomePage {
+    position: relative;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: url('../images/cards/fundoCards6.jpg');  
+    background-size: cover;  
+    background-position: center;  
+    background-repeat: no-repeat; 
+    height: 100vh;  
+    width: 100%;  
+    overflow: hidden;
+  }
+
+
+
+
+
